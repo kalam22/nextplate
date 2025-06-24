@@ -54,17 +54,17 @@ const Home = () => {
                 <ImageFallback
                   src={banner.image}
                   className="mx-auto"
-                  width="800"
+                  width="600"
                   height="420"
                   alt="banner image"
-                  priority
+                  priority                                                                                                             
                 />
               </div>
             )}
           </div>
         </div>
       </section>
-
+      <Testimonials data={testimonial} />
       {features.map((feature, index: number) => (
         <section
           key={index}
@@ -119,7 +119,6 @@ const Home = () => {
         </section>
       ))}
 
-      <Testimonials data={testimonial} />
       <CallToAction data={callToAction} />
     </>
   );

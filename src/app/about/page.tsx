@@ -21,10 +21,11 @@ const About = () => {
       <section className="section-sm">
         <div className="container">
           <div className="row justify-center">
-            <div className="text-center md:col-10 lg:col-7">
+            {/* Remove text-center from here if it's causing issues for the main content */}
+            <div className="md:col-10 lg:col-7">
               {image && (
                 <ImageFallback
-                  className="mx-auto mb-6 rounded-lg"
+                  className="mx-auto mb-6 rounded-lg" // Keep mx-auto for image centering
                   src={image}
                   width={200}
                   height={200}
@@ -33,9 +34,11 @@ const About = () => {
               )}
               <h2
                 dangerouslySetInnerHTML={markdownify(title)}
-                className="h3 mb-6"
+                className="h3 mb-6 text-center" // You might want to keep the title centered
               />
-              <div className="content">
+              <div className="content text-justify">
+                {" "}
+                {/* Add text-justify here */}
                 <MDXContent content={content} />
               </div>
             </div>

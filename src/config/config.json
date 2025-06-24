@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Nextplate",
+    "title": "Graha Prima Energy",
     "base_url": "https://nextplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "favicon": "/images/logo_gpe.png",
+    "logo": "/images/logo_gpe.png",
+    "logo_darkmode": "/images/logo_gpe.png",
     "logo_width": "150",
-    "logo_height": "27",
-    "logo_text": "Nextplate"
+    "logo_height": "60",
+    "logo_text": "Graha Prima Energy"
   },
 
   "settings": {
@@ -24,11 +24,11 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Developer by [IT GPE](https://www.instagram.com/kalam_2205) & Copyright by [Zain Studio](https://zeon.studio/preview?project=nextplate)"
   },
 
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Get Started",
     "link": "https://github.com/zeon-studio/nextplate"
   },

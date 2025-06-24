@@ -26,13 +26,30 @@ const Contact = async () => {
               <form action={contact_form_action} method="POST">
                 <div className="mb-6">
                   <label htmlFor="name" className="form-label">
-                    Full Name <span className="text-red-500">*</span>
+                    Pilih Peran <span className="text-red-500">*</span>
+                  </label>
+                  <select
+                    id="role"
+                    name="role"
+                    className="form-input"
+                  >
+                    <option value="">
+                      Pilih Peran
+                    </option>
+                    <option value="operator">Operator</option>
+                    <option value="staff">Staff</option>
+                    <option value="staff_konawe">Staff Konawe</option>
+                  </select>
+                </div>
+                {/* <div className="mb-6">
+                  <label htmlFor="name" className="form-label">
+                    Nama <span className="text-red-500">*</span>
                   </label>
                   <input
                     id="name"
                     name="name"
                     className="form-input"
-                    placeholder="John Doe"
+                    placeholder="Masukkan Nama Lengkap"
                     type="text"
                   />
                 </div>
@@ -59,9 +76,9 @@ const Contact = async () => {
                     placeholder="Message goes here..."
                     rows={8}
                   ></textarea>
-                </div>
+                </div> */}
                 <button type="submit" className="btn btn-primary">
-                  Submit
+                  Kirim
                 </button>
               </form>
             </div>

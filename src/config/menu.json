@@ -1,26 +1,22 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Halaman Utama",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Tentang Kami",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Karir",
+      "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "",
       "url": "",
-      "hasChildren": true,
+      "hasChildren": false,
       "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
         {
           "name": "Blog",
           "url": "/blog"

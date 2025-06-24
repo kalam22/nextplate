@@ -1,51 +1,50 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
-  image: "/images/banner.png"
+  title: "Selamat Datang Di Graha Prima Energy"
+  content: "Kami adalah mitra terpercaya menyediakan jasa dan solusi untuk operasional pertambangan. Jelajahi profil perusahaan, proyek-proyek unggulan, dan peluang karir bersama kami."
+  image: "/images/banner2.gif"
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/nextplate"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
-    image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+  - title: "Pengalaman Graha Prima Energy"
+    image: "/images/service-11.png"
+    content: "Proyek yang dikerjakan saat ini"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**PT. Mega Prima Persada (LG International Corp)** yang berlokasi di **Kecamatan Loa Kulu**, **Kutai Kartanegara**, **Kalimantan Timur** dengan lingkup pekerjaan **Overburden using PC 1250-8** dan **HD 465-7R**, **Stock Pile rental Heavy equipment services**, dan **Road Maintenance**."
+      - "**PT. Bara Kumala Sakti** yang berlokasi di **Kecamatan Loa Kulu**, **Kutai Kartanegara**, **Kalimantan Timur** dengan lingkup pekerjaan **Overburden using PC 800** dan **HD 465-7R**, **Coal Mining**, dan **Heavy Equipment Rental.**"
+      - "**PT. Dian Bara Genoyang** yang berlokasi **Sungai Ancam**, **Bulungan**, **Kalimantan Timur** dengan lingkup pekerjaan **Overburden**, **Coal Mining**, **Coal Houling**, **Road Maintenance**, dan **Heavy Equipment Rental.**"
+      - "**PT. Gema Rahmi Persada** yang berlokasi di **Kecamatan Kota Bangun**, **Kutai Kartanegara** dengan lingkup pekerjaan **Heavy Equipment Rental for stock pile services.**"
+      - "**PT. Karya Putra Borneo** yang berlokasi di **Loajanan**, **Kutai Kartanegara**, **Kalimantan Timur** dengan lingkup pekerjaan **Overburden Coal Mining**, **Coal Houling**, **Road Maintenance**, dan **Heavy Equipment Rental.**"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
-    image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Pengalaman Graha Prima Energy"
+    image: "/images/service-21.png"
+    content: "Proyek yang selesai dikerjakan"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**PT. Kimco Armindo** (2005-2008) yang berlokasi di **Sebulu**, **Kabupaten Kutai Kartanegara**, **Kalimantan Timur** dengan lingkup pekerjaan **Overburden.**"
+      - "**PT. Bara Dinamika Muda Sukses** (1998 - 2000) yang berlokasi di **Tarakan**, **Kalimantan Timur** dengan lingkup pekerjaan **Heavy Equipement Rental.**"
+      - "**PT. Rea Kaltim Plantation** (1996 - 1999) yang berlokasi di **Kembang Janggut**, **Kutai Kartanegara**, **Kalimantan Timur** dengan lingkup pekerjaan **Land Clearing** dan **Heavy Equipment Rental.**"
+      - "**PT. Tanjung Redeb Hutani** (1997 - 2000) yang berlokasi di **Desa Sambarata**, **Berau**, **Kalimantan Timur** dengan lingkup pekerjaan **Land Clearing** dan **Heavy Equipment Rental.**"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/nextplate"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Corporate Social Responbility"
+    image: "/images/service-31.png"
+    content: "PT Graha Prima Energy percaya pada pentingnya bekerja sama dengan masyarakat sekitar melalui inisiatif Corporate Social Responsibility (CSR)."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "CSR dibangun dengan tujuan untuk mencapai pemahaman antara kontraktor dan masyarakat yang tinggal di sekitar daerah operasi, serta membantu masyarakat untuk menjadi lebih mandiri melalui kemitraan."
+      - "Tujuan dari CSR adalah untuk merangkul tanggung jawab atas tindakan perusahaan dan mendorong dampak positif melalui kegiatan terhadap lingkungan, konsumen, karyawan, masyarakat, stakeholder dan semua anggota lain dari lingkungan publik."
+      - "Inisiatif kami meliputi pendidikan, kesehatan masyarakat, pembangunan ekonomi pedesaan, fasilitas umum dan bantuan bencana. Selain itu, CSR kami berfokus pada mempromosikan secara proaktif kepentingan publik dengan mendorong pertumbuhan dan pembangunan masyarakat."
     button:
       enable: false
       label: ""
